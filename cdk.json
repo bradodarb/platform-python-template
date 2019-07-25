@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/platform-python-template.ts"
+}
